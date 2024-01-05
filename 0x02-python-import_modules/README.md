@@ -11,4 +11,4 @@ In this project, I am introduced to python modules.
 - How to use commandline arguments in Python programs
 
 ## Resources
-- [Python Documentation](https://docs.python.org/3/tutorial/modules.html)
+- [Python Documentation](https://docs.python.org/3/tutorial/modules.html)This directory is for the import modules in python
